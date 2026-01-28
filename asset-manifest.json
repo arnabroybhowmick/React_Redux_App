@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Redux-App/static/css/main.5e85f55f.css",
-    "main.js": "/React-Redux-App/static/js/main.ac7fdeff.js",
-    "static/js/453.117b0875.chunk.js": "/React-Redux-App/static/js/453.117b0875.chunk.js",
-    "index.html": "/React-Redux-App/index.html",
-    "main.5e85f55f.css.map": "/React-Redux-App/static/css/main.5e85f55f.css.map",
-    "main.ac7fdeff.js.map": "/React-Redux-App/static/js/main.ac7fdeff.js.map",
-    "453.117b0875.chunk.js.map": "/React-Redux-App/static/js/453.117b0875.chunk.js.map"
+    "main.css": "/React_Redux_App/static/css/main.5e85f55f.css",
+    "main.js": "/React_Redux_App/static/js/main.72b87488.js",
+    "static/js/453.117b0875.chunk.js": "/React_Redux_App/static/js/453.117b0875.chunk.js",
+    "index.html": "/React_Redux_App/index.html",
+    "main.5e85f55f.css.map": "/React_Redux_App/static/css/main.5e85f55f.css.map",
+    "main.72b87488.js.map": "/React_Redux_App/static/js/main.72b87488.js.map",
+    "453.117b0875.chunk.js.map": "/React_Redux_App/static/js/453.117b0875.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e85f55f.css",
-    "static/js/main.ac7fdeff.js"
+    "static/js/main.72b87488.js"
   ]
 }
